@@ -1,0 +1,61 @@
+ProductID,ProductName,Category,Subcategory,UnitCost,UnitPrice
+P001,Decor Product 01,Home & Kitchen,Decor,13801.21,20609.93
+P002,Audio Product 02,Electronics,,22953.33,35302.45
+P003,Cookware Product 03,Home & Kitchen,Cookware,2795.83,6121.81
+P004,Accessories Product 04,Electronics,Accessories,38925.19,86379.54
+P005,Accessories Product 05,Sports,Accessories,22941.28,39651.47
+P006,Accessories Product 06,Sports,Accessories,40340.49,69069.66
+P007,Accessories Product 07,Sports,,8673.72,16534.34
+P008,Fitness Product 08,Sports,Fitness,43108.08,73850.77
+P009,Filing Product 09,Office Supplies,Filing,4023.73,7877.09
+P010,Phones Product 10,Electronics,Phones,31916.07,76238.95
+P011,Accessories Product 11,Sports,Accessories,27538.79,44196.25
+P012,Writing Product 12,Office Supplies,Writing,18542.43,29166.48
+P013,Fitness Product 13,Sports,,35567.91,69682.22
+P014,Audio Product 14,Electronics,Audio,4479.14,8949.21
+P015,Writing Product 15,Office Supplies,Writing,32637.08,64318.06
+P016,Fitness Product 16,Sports,Fitness,15167.95,28491.85
+P017,Tables Product 17,Furniture,,14132.87,27842.72
+P018,Cookware Product 18,Home & Kitchen,Cookware,26878.09,62424.44
+P019,Filing Product 19,Office Supplies,Filing,17106.4,36600.47
+P020,Storage Product 20,Furniture,Storage,31701.68,73988.1
+P021,Fitness Product 21,Sports,Fitness,29159.61,48966.51
+P022,Paper Product 22,Office Supplies,Paper,16476.25,22660.26
+P023,Tables Product 23,Furniture,Tables,42658.15,74986.14
+P024,Chairs Product 24,Furniture,Chairs,7183.8,10917.51
+P025,Accessories Product 25,Electronics,Accessories,34746.64,76230.65
+P026,Fitness Product 26,Sports,Fitness,29871.33,67075.8
+P027,Fitness Product 27,Sports,Fitness,26976.78,36224.85
+P028,Storage Product 28,Furniture,Storage,34756.63,75119.67
+P029,Storage Product 29,Furniture,Storage,19835.88,32998.44
+P030,Tables Product 30,Furniture,Tables,27574.15,57643.46
+P031,Cookware Product 31,Home & Kitchen,Cookware,24147.0,37109.95
+P032,Cookware Product 32,Home & Kitchen,Cookware,16710.88,39001.74
+P033,Appliances Product 33,Home & Kitchen,Appliances,34682.38,73618.73
+P034,Accessories Product 34,Sports,Accessories,18985.07,25678.69
+P035,Storage Product 35,Furniture,Storage,6443.33,9423.4
+P036,Appliances Product 36,Home & Kitchen,Appliances,25065.7,32039.91
+P037,Fitness Product 37,Sports,Fitness,13006.57,27364.47
+P038,Writing Product 38,Office Supplies,Writing,40762.45,54384.68
+P039,Cookware Product 39,Home & Kitchen,Cookware,42601.99,60816.36
+P040,Appliances Product 40,Home & Kitchen,Appliances,41888.62,69896.24
+P041,Decor Product 41,Home & Kitchen,Decor,16984.78,27731.18
+P042,Audio Product 42,Electronics,Audio,10298.11,15945.14
+P043,Accessories Product 43,Electronics,Accessories,29335.74,62755.77
+P044,Chairs Product 44,Furniture,Chairs,13087.85,28625.77
+P045,Storage Product 45,Furniture,Storage,21242.68,40768.64
+P046,Phones Product 46,Electronics,Phones,11702.6,25672.04
+P047,Accessories Product 47,Sports,Accessories,27497.38,46169.98
+P048,Paper Product 48,Office Supplies,Paper,13726.52,16604.79
+P049,Decor Product 49,Home & Kitchen,Decor,35776.99,61586.23
+P050,Audio Product 50,Electronics,Audio,26954.07,31550.93
+P051,Accessories Product 51,Sports,Accessories,11076.73,14726.19
+P052,Cookware Product 52,Home & Kitchen,Cookware,27762.73,40275.54
+P053,Cookware Product 53,Home & Kitchen,Cookware,29980.62,37686.16
+P054,Paper Product 54,Office Supplies,Paper,42914.81,78538.5
+P055,Accessories Product 55,Sports,Accessories,1159.96,2600.24
+P056,Accessories Product 56,Electronics,Accessories,17562.94,28392.74
+P057,Audio Product 57,Electronics,Audio,35536.27,56182.95
+P058,Accessories Product 58,Electronics,Accessories,33149.62,51900.64
+P059,Audio Product 59,Electronics,Audio,24684.12,53487.68
+P060,Storage Product 60,Furniture,Storage,21041.87,42488.51

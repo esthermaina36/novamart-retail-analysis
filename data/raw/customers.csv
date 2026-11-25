@@ -1,0 +1,351 @@
+CustomerID,CustomerName,Gender,Age,City,Region,CustomerSegment,SignupDate
+C0001,Customer 001,Female,65,Garissa,North Eastern,Consumer,2021-08-17
+C0002,Customer 002,Other,24,Nakuru,Rift Valley,Corporate,2021-10-13
+C0003,Customer 003,Other,45,Kakamega,Western,Consumer,2021-06-28
+C0004,Customer 004,Female,50,Mombasa,Coast,Corporate,2022-03-24
+C0005,Customer 005,Other,59,Kakamega,Western,Corporate,2022-02-12
+C0006,Customer 006,Male,55,Thika,Central,Consumer,2022-03-28
+C0007,Customer 007,Other,45,Nairobi,Nairobi,Consumer,2021-11-23
+C0008,Customer 008,Male,24,Kisumu,Nyanza,Consumer,2022-03-17
+C0009,Customer 009,Male,56,Mombasa,Coast,Consumer,2023-01-06
+C0010,Customer 010,Male,52,Nairobi,Nairobi,Consumer,2025-02-03
+C0011,Customer 011,Other,36,Thika,Central,Corporate,2021-06-11
+C0012,Customer 012,Other,30,Machakos,Eastern,Corporate,2023-01-11
+C0013,Customer 013,Female,67,Nairobi,Nairobi,Consumer,2024-09-16
+C0014,Customer 014,Female,42,Mombasa,Coast,Consumer,2022-04-22
+C0015,Customer 015,Female,41,Garissa,North Eastern,Consumer,2023-01-18
+C0016,Customer 016,Other,61,Garissa,North Eastern,Corporate,2022-07-01
+C0017,Customer 017,Female,52,Machakos,Eastern,Corporate,2024-07-24
+C0018,Customer 018,Male,35,Kisumu,Nyanza,Small Business,2023-08-05
+C0019,Customer 019,Other,32,Garissa,North Eastern,Corporate,2024-11-10
+C0020,Customer 020,Female,69,Nairobi,Nairobi,Consumer,2022-04-15
+C0021,Customer 021,Female,54,Eldoret,Rift Valley,Small Business,2021-05-16
+C0022,Customer 022,Other,49,Nyeri,Central,Consumer,2022-03-12
+C0023,Customer 023,Female,34,Garissa,North Eastern,Consumer,2023-07-29
+C0024,Customer 024,Other,34,Kitale,Rift Valley,Corporate,2024-02-24
+C0025,Customer 025,Male,41,Thika,Central,Consumer,2024-04-10
+C0026,Customer 026,Male,23,Kisumu,Nyanza,Corporate,2023-11-10
+C0027,Customer 027,Other,28,Mombasa,Coast,Corporate,2021-11-10
+C0028,Customer 028,Female,42,Thika,Central,Consumer,2024-05-06
+C0029,Customer 029,Male,53,Meru,Eastern,Small Business,2023-12-20
+C0030,Customer 030,Other,25,Nairobi,Nairobi,Corporate,2024-10-25
+C0031,Customer 031,Other,39,Kakamega,Western,Consumer,2022-07-01
+C0032,Customer 032,Male,18,Thika,Central,Small Business,2021-11-20
+C0033,Customer 033,Other,66,Kitale,Rift Valley,Consumer,2022-06-24
+C0034,Customer 034,Male,71,Mombasa,Coast,Corporate,2024-07-04
+C0035,Customer 035,Female,41,Machakos,Eastern,Corporate,2022-02-12
+C0036,Customer 036,Female,56,,Western,Consumer,2023-12-23
+C0037,Customer 037,Male,74,Nairobi,Nairobi,Small Business,2021-08-18
+C0038,Customer 038,Female,33,Eldoret,Rift Valley,Small Business,2022-05-06
+C0039,Customer 039,Other,49,Mombasa,Coast,Corporate,2021-06-25
+C0040,Customer 040,Female,60,Kakamega,Western,Consumer,2021-09-15
+C0041,Customer 041,Male,51,Kakamega,Western,Small Business,2021-12-05
+C0042,Customer 042,Other,66,Thika,Central,Corporate,2022-03-10
+C0043,Customer 043,Male,43,Nakuru,Rift Valley,Small Business,2024-12-31
+C0044,Customer 044,Male,75,Garissa,North Eastern,Consumer,2023-02-04
+C0045,Customer 045,Female,22,Mombasa,Coast,Consumer,2022-05-23
+C0046,Customer 046,Female,55,Machakos,Eastern,Consumer,2024-02-09
+C0047,Customer 047,Other,21,Mombasa,Coast,Consumer,2024-12-20
+C0048,Customer 048,Female,50,Nairobi,Nairobi,Consumer,2022-11-08
+C0049,Customer 049,Female,52,Garissa,North Eastern,Consumer,2023-09-22
+C0050,Customer 050,Male,33,Machakos,Eastern,Corporate,2024-03-26
+C0051,Customer 051,Female,24,Thika,Central,Corporate,2022-01-25
+C0052,Customer 052,Male,47,,Central,Small Business,2023-05-18
+C0053,Customer 053,Other,59,Nairobi,Nairobi,Consumer,2024-10-11
+C0054,Customer 054,Male,69,Thika,Central,Small Business,2025-01-31
+C0055,Customer 055,Female,52,Nakuru,Rift Valley,Consumer,2022-01-28
+C0056,Customer 056,Male,47,Thika,Central,Consumer,2022-01-11
+C0057,Customer 057,Other,24,Mombasa,Coast,Consumer,2023-06-27
+C0058,Customer 058,Female,66,Kakamega,Western,Small Business,2021-01-31
+C0059,Customer 059,Male,48,Kisumu,Nyanza,Consumer,2023-04-13
+C0060,Customer 060,Female,42,Thika,Central,Consumer,2021-05-01
+C0061,Customer 061,Male,36,Thika,Central,Consumer,2022-06-28
+C0062,Customer 062,Other,63,Kitale,Rift Valley,Consumer,2024-02-13
+C0063,Customer 063,Female,21,Nakuru,Rift Valley,Consumer,2022-08-31
+C0064,Customer 064,Other,38,Kakamega,Western,Consumer,2021-05-05
+C0065,Customer 065,Other,72,Machakos,Eastern,Consumer,2023-09-04
+C0066,Customer 066,Female,72,Nairobi,Nairobi,Consumer,2023-11-07
+C0067,Customer 067,Other,73,Machakos,Eastern,Consumer,2021-05-20
+C0068,Customer 068,Female,55,Mombasa,Coast,Corporate,2024-03-12
+C0069,Customer 069,Male,60,Machakos,Eastern,Corporate,2021-06-17
+C0070,Customer 070,Male,31,Kakamega,Western,Corporate,2022-10-10
+C0071,Customer 071,Male,43,Nyeri,Central,Consumer,2022-05-04
+C0072,Customer 072,Male,38,Garissa,North Eastern,Small Business,2022-09-07
+C0073,Customer 073,Male,57,Mombasa,Coast,Small Business,2021-01-20
+C0074,Customer 074,Other,31,Mombasa,Coast,Consumer,2021-05-31
+C0075,Customer 075,Female,74,Kisumu,Nyanza,Consumer,2022-12-16
+C0076,Customer 076,Male,71,Eldoret,Rift Valley,Consumer,2021-11-20
+C0077,Customer 077,Other,51,Eldoret,Rift Valley,Consumer,2024-06-06
+C0078,Customer 078,Other,24,Kakamega,Western,Small Business,2022-09-06
+C0079,Customer 079,Female,74,Kisumu,Nyanza,Consumer,2022-06-26
+C0080,Customer 080,Male,36,Kakamega,Western,Corporate,2021-11-15
+C0081,Customer 081,Female,61,Kitale,Rift Valley,Corporate,2022-12-04
+C0082,Customer 082,Male,34,Eldoret,Rift Valley,Small Business,2023-11-02
+C0083,Customer 083,Other,45,Nairobi,Nairobi,Corporate,2021-07-09
+C0084,Customer 084,Male,67,Nairobi,Nairobi,Consumer,2021-01-08
+C0085,Customer 085,Other,46,Eldoret,Rift Valley,Consumer,2021-11-27
+C0086,Customer 086,Female,25,Thika,Central,Consumer,2024-02-23
+C0087,Customer 087,Other,20,Kitale,Rift Valley,Small Business,2021-11-02
+C0088,Customer 088,Female,45,Machakos,Eastern,Consumer,2024-02-06
+C0089,Customer 089,Female,75,Eldoret,Rift Valley,Consumer,2023-01-17
+C0090,Customer 090,Other,24,Garissa,North Eastern,Consumer,2022-05-27
+C0091,Customer 091,Other,65,Kakamega,Western,Consumer,2023-04-13
+C0092,Customer 092,Female,74,Nakuru,Rift Valley,Consumer,2021-11-29
+C0093,Customer 093,Male,69,Kisumu,Nyanza,Corporate,2022-11-12
+C0094,Customer 094,Male,28,Kitale,Rift Valley,Corporate,2022-05-24
+C0095,Customer 095,Female,72,Mombasa,Coast,Consumer,2023-02-23
+C0096,Customer 096,Male,37,Nakuru,Rift Valley,Corporate,2023-08-01
+C0097,Customer 097,Female,60,Nakuru,Rift Valley,Consumer,2022-04-02
+C0098,Customer 098,Female,67,Nyeri,Central,Consumer,2022-07-25
+C0099,Customer 099,Male,61,Garissa,North Eastern,Small Business,2023-11-10
+C0100,Customer 100,Female,25,Kakamega,Western,Small Business,2022-11-10
+C0101,Customer 101,Other,34,Eldoret,Rift Valley,Consumer,2022-01-01
+C0102,Customer 102,Male,64,Machakos,Eastern,Corporate,2023-06-09
+C0103,Customer 103,Other,25,Thika,Central,Consumer,2024-05-26
+C0104,Customer 104,Male,20,Machakos,Eastern,Corporate,2022-01-25
+C0105,Customer 105,Other,61,Nairobi,Nairobi,Corporate,2023-12-01
+C0106,Customer 106,Female,41,Kitale,Rift Valley,Consumer,2024-10-05
+C0107,Customer 107,Other,38,Garissa,North Eastern,Corporate,2022-11-08
+C0108,Customer 108,Male,50,Mombasa,Coast,Consumer,2025-01-14
+C0109,Customer 109,Male,62,,Central,Consumer,2022-10-31
+C0110,Customer 110,Male,60,Kisumu,Nyanza,Small Business,2022-01-28
+C0111,Customer 111,Other,54,Garissa,North Eastern,Consumer,2021-12-23
+C0112,Customer 112,Male,36,Kakamega,Western,Consumer,2021-01-01
+C0113,Customer 113,Other,38,Machakos,Eastern,Consumer,2024-05-27
+C0114,Customer 114,Female,50,Meru,Eastern,Consumer,2024-10-15
+C0115,Customer 115,Other,23,Kitale,Rift Valley,Consumer,2021-12-14
+C0116,Customer 116,Other,39,Garissa,North Eastern,Consumer,2024-07-20
+C0117,Customer 117,Male,32,Nakuru,Rift Valley,Corporate,2024-10-09
+C0118,Customer 118,Female,33,Kisumu,Nyanza,Small Business,2021-02-20
+C0119,Customer 119,Male,44,Machakos,Eastern,Small Business,2021-05-30
+C0120,Customer 120,Other,62,Machakos,Eastern,Consumer,2022-02-03
+C0121,Customer 121,Female,59,Thika,Central,Corporate,2022-05-15
+C0122,Customer 122,Female,29,Mombasa,Coast,Corporate,2023-05-21
+C0123,Customer 123,Male,21,Kitale,Rift Valley,Consumer,2023-11-27
+C0124,Customer 124,Female,69,Mombasa,Coast,Consumer,2023-07-24
+C0125,Customer 125,Other,38,Kakamega,Western,Small Business,2024-02-19
+C0126,Customer 126,Other,75,Meru,Eastern,Consumer,2024-06-08
+C0127,Customer 127,Female,65,Kakamega,Western,Small Business,2023-07-03
+C0128,Customer 128,Female,71,Meru,Eastern,Corporate,2022-06-15
+C0129,Customer 129,Other,33,Kakamega,Western,Consumer,2023-09-20
+C0130,Customer 130,Male,33,Mombasa,Coast,Consumer,2025-01-01
+C0131,Customer 131,Female,26,Nyeri,Central,Consumer,2024-01-12
+C0132,Customer 132,Female,63,Thika,Central,Consumer,2024-11-22
+C0133,Customer 133,Male,52,Thika,Central,Consumer,2023-04-15
+C0134,Customer 134,Male,42,Nairobi,Nairobi,Small Business,2022-02-28
+C0135,Customer 135,Female,72,Machakos,Eastern,Small Business,2024-11-25
+C0136,Customer 136,Male,18,Machakos,Eastern,Small Business,2023-02-19
+C0137,Customer 137,Male,52,Eldoret,Rift Valley,Corporate,2023-03-10
+C0138,Customer 138,Female,49,Kakamega,Western,Consumer,2024-05-20
+C0139,Customer 139,Female,42,Thika,Central,Consumer,2023-09-22
+C0140,Customer 140,Other,28,Garissa,North Eastern,Small Business,2023-04-09
+C0141,Customer 141,Other,19,Kisumu,Nyanza,Small Business,2024-06-28
+C0142,Customer 142,Other,19,Machakos,Eastern,Consumer,2024-03-01
+C0143,Customer 143,Male,29,Thika,Central,Consumer,2021-10-05
+C0144,Customer 144,Female,47,Thika,Central,Consumer,2022-11-02
+C0145,Customer 145,Male,34,Thika,Central,Small Business,2022-07-24
+C0146,Customer 146,Other,52,Meru,Eastern,Consumer,2021-02-09
+C0147,Customer 147,Other,22,Nyeri,Central,Corporate,2022-04-05
+C0148,Customer 148,Female,33,Garissa,North Eastern,Consumer,2021-03-24
+C0149,Customer 149,Female,33,Nairobi,Nairobi,Consumer,2024-06-26
+C0150,Customer 150,Other,31,Garissa,North Eastern,Consumer,2021-08-23
+C0151,Customer 151,Female,56,Eldoret,Rift Valley,Corporate,2023-01-26
+C0152,Customer 152,Female,67,,Rift Valley,Corporate,2025-01-11
+C0153,Customer 153,Other,19,Eldoret,Rift Valley,Small Business,2021-08-10
+C0154,Customer 154,Male,43,Machakos,Eastern,Small Business,2024-10-19
+C0155,Customer 155,Other,62,Nakuru,Rift Valley,Small Business,2021-06-05
+C0156,Customer 156,Other,67,Nakuru,Rift Valley,Consumer,2021-07-28
+C0157,Customer 157,Female,68,Garissa,North Eastern,Small Business,2024-05-14
+C0158,Customer 158,Other,45,Nairobi,Nairobi,Corporate,2022-12-13
+C0159,Customer 159,Other,39,Mombasa,Coast,Consumer,2023-11-03
+C0160,Customer 160,Female,45,Thika,Central,Small Business,2023-10-01
+C0161,Customer 161,Other,27,Garissa,North Eastern,Consumer,2023-07-31
+C0162,Customer 162,Other,35,Kitale,Rift Valley,Corporate,2023-12-05
+C0163,Customer 163,Male,45,Kakamega,Western,Corporate,2023-09-18
+C0164,Customer 164,Male,72,Machakos,Eastern,Consumer,2022-07-04
+C0165,Customer 165,Male,33,Mombasa,Coast,Corporate,2022-07-26
+C0166,Customer 166,Other,42,Machakos,Eastern,Consumer,2024-06-03
+C0167,Customer 167,Female,49,Meru,Eastern,Consumer,2022-10-28
+C0168,Customer 168,Male,74,Eldoret,Rift Valley,Corporate,2022-11-29
+C0169,Customer 169,Female,51,Eldoret,Rift Valley,Small Business,2024-02-13
+C0170,Customer 170,Other,44,Mombasa,Coast,Consumer,2022-05-10
+C0171,Customer 171,Male,59,Nakuru,Rift Valley,Corporate,2024-11-15
+C0172,Customer 172,Female,36,Meru,Eastern,Consumer,2021-02-05
+C0173,Customer 173,Male,60,Kitale,Rift Valley,Corporate,2022-05-14
+C0174,Customer 174,Other,40,Meru,Eastern,Consumer,2024-02-08
+C0175,Customer 175,Male,40,Kitale,Rift Valley,Corporate,2024-02-02
+C0176,Customer 176,Male,32,Eldoret,Rift Valley,Consumer,2022-09-20
+C0177,Customer 177,Female,65,Nakuru,Rift Valley,Consumer,2022-10-09
+C0178,Customer 178,Female,31,Kitale,Rift Valley,Corporate,2022-01-15
+C0179,Customer 179,Other,66,Eldoret,Rift Valley,Consumer,2025-01-23
+C0180,Customer 180,Female,36,Eldoret,Rift Valley,Consumer,2021-07-25
+C0181,Customer 181,Female,63,Kisumu,Nyanza,Consumer,2022-09-12
+C0182,Customer 182,Female,53,Eldoret,Rift Valley,Consumer,2021-04-04
+C0183,Customer 183,Male,24,Kisumu,Nyanza,Small Business,2024-07-30
+C0184,Customer 184,Male,48,Machakos,Eastern,Consumer,2022-08-06
+C0185,Customer 185,Male,73,Kisumu,Nyanza,Consumer,2021-04-16
+C0186,Customer 186,Male,22,Mombasa,Coast,Consumer,2023-04-01
+C0187,Customer 187,Female,27,Garissa,North Eastern,Corporate,2021-04-20
+C0188,Customer 188,Female,25,Eldoret,Rift Valley,Consumer,2021-06-24
+C0189,Customer 189,Other,68,Thika,Central,Corporate,2024-05-26
+C0190,Customer 190,Male,46,Kakamega,Western,Consumer,2023-02-19
+C0191,Customer 191,Male,54,Machakos,Eastern,Corporate,2023-05-29
+C0192,Customer 192,Female,58,Machakos,Eastern,Consumer,2021-07-23
+C0193,Customer 193,Female,33,Garissa,North Eastern,Consumer,2021-06-16
+C0194,Customer 194,Female,44,Mombasa,Coast,Consumer,2021-11-17
+C0195,Customer 195,Male,20,Machakos,Eastern,Consumer,2023-08-21
+C0196,Customer 196,Other,73,Kitale,Rift Valley,Consumer,2022-08-03
+C0197,Customer 197,Male,68,Garissa,North Eastern,Corporate,2022-04-24
+C0198,Customer 198,Female,45,Machakos,Eastern,Consumer,2024-09-16
+C0199,Customer 199,Female,35,Nakuru,Rift Valley,Corporate,2024-08-19
+C0200,Customer 200,Female,68,Mombasa,Coast,Consumer,2021-05-03
+C0201,Customer 201,Male,46,Kitale,Rift Valley,Consumer,2024-03-11
+C0202,Customer 202,Other,43,Kitale,Rift Valley,Small Business,2022-09-15
+C0203,Customer 203,Male,46,Kakamega,Western,Consumer,2024-01-11
+C0204,Customer 204,Other,38,Nairobi,Nairobi,Corporate,2023-06-04
+C0205,Customer 205,Female,61,Nairobi,Nairobi,Small Business,2021-07-07
+C0206,Customer 206,Female,66,Machakos,Eastern,Corporate,2024-04-17
+C0207,Customer 207,Female,66,Eldoret,Rift Valley,Corporate,2024-03-26
+C0208,Customer 208,Other,46,Meru,Eastern,Small Business,2023-11-29
+C0209,Customer 209,Male,58,Kisumu,Nyanza,Corporate,2024-04-13
+C0210,Customer 210,Male,44,Mombasa,Coast,Consumer,2023-08-21
+C0211,Customer 211,Female,39,Garissa,North Eastern,Consumer,2021-08-03
+C0212,Customer 212,Other,43,Meru,Eastern,Corporate,2022-08-14
+C0213,Customer 213,Male,23,Kakamega,Western,Consumer,2021-03-17
+C0214,Customer 214,Male,73,Nyeri,Central,Consumer,2021-08-26
+C0215,Customer 215,Other,47,Nairobi,Nairobi,Consumer,2024-09-08
+C0216,Customer 216,Male,57,Nakuru,Rift Valley,Corporate,2023-11-28
+C0217,Customer 217,Female,31,Garissa,North Eastern,Consumer,2023-06-25
+C0218,Customer 218,Male,74,Kisumu,Nyanza,Corporate,2022-08-13
+C0219,Customer 219,Other,56,Mombasa,Coast,Corporate,2021-03-01
+C0220,Customer 220,Male,53,Kitale,Rift Valley,Consumer,2021-11-21
+C0221,Customer 221,Female,71,Thika,Central,Small Business,2021-07-10
+C0222,Customer 222,Other,71,Meru,Eastern,Consumer,2021-08-29
+C0223,Customer 223,Other,63,Kitale,Rift Valley,Consumer,2022-08-21
+C0224,Customer 224,Female,47,Meru,Eastern,Consumer,2023-08-26
+C0225,Customer 225,Other,50,Thika,Central,Corporate,2022-01-26
+C0226,Customer 226,Male,67,Kisumu,Nyanza,Corporate,2021-05-23
+C0227,Customer 227,Other,35,Thika,Central,Corporate,2022-11-28
+C0228,Customer 228,Male,71,Eldoret,Rift Valley,Corporate,2025-01-26
+C0229,Customer 229,Female,46,Garissa,North Eastern,Consumer,2023-09-30
+C0230,Customer 230,Other,66,Nyeri,Central,Consumer,2022-11-12
+C0231,Customer 231,Female,62,Meru,Eastern,Consumer,2022-10-22
+C0232,Customer 232,Male,20,Thika,Central,Consumer,2022-04-24
+C0233,Customer 233,Male,42,Meru,Eastern,Small Business,2024-12-15
+C0234,Customer 234,Male,20,Garissa,North Eastern,Consumer,2021-11-08
+C0235,Customer 235,Female,73,,Eastern,Small Business,2022-11-11
+C0236,Customer 236,Male,18,Mombasa,Coast,Corporate,2023-12-14
+C0237,Customer 237,Female,22,Thika,Central,Consumer,2024-09-02
+C0238,Customer 238,Other,62,Eldoret,Rift Valley,Consumer,2022-11-25
+C0239,Customer 239,Other,72,Mombasa,Coast,Consumer,2022-11-04
+C0240,Customer 240,Other,74,Nyeri,Central,Corporate,2024-07-07
+C0241,Customer 241,Other,22,Kakamega,Western,Consumer,2021-03-15
+C0242,Customer 242,Female,65,Garissa,North Eastern,Consumer,2022-08-12
+C0243,Customer 243,Other,73,Mombasa,Coast,Consumer,2024-07-21
+C0244,Customer 244,Male,75,Kisumu,Nyanza,Consumer,2024-11-22
+C0245,Customer 245,Male,40,Nyeri,Central,Consumer,2021-04-25
+C0246,Customer 246,Other,44,Kisumu,Nyanza,Consumer,2022-05-16
+C0247,Customer 247,Female,23,Kisumu,Nyanza,Corporate,2021-12-15
+C0248,Customer 248,Other,33,Thika,Central,Consumer,2024-06-23
+C0249,Customer 249,Female,47,Machakos,Eastern,Corporate,2021-10-21
+C0250,Customer 250,Other,18,Meru,Eastern,Small Business,2022-06-07
+C0251,Customer 251,Other,52,Meru,Eastern,Consumer,2022-08-13
+C0252,Customer 252,Other,37,Meru,Eastern,Corporate,2022-12-09
+C0253,Customer 253,Male,47,Thika,Central,Small Business,2024-11-14
+C0254,Customer 254,Male,24,Nakuru,Rift Valley,Consumer,2023-02-27
+C0255,Customer 255,Other,36,Machakos,Eastern,Small Business,2023-01-06
+C0256,Customer 256,Other,43,Eldoret,Rift Valley,Consumer,2021-02-14
+C0257,Customer 257,Other,21,Machakos,Eastern,Small Business,2024-11-05
+C0258,Customer 258,Male,67,,Rift Valley,Corporate,2023-10-15
+C0259,Customer 259,Female,58,Machakos,Eastern,Consumer,2022-12-23
+C0260,Customer 260,Other,67,Eldoret,Rift Valley,Corporate,2024-10-20
+C0261,Customer 261,Female,75,Kisumu,Nyanza,Corporate,2024-07-10
+C0262,Customer 262,Male,20,Nairobi,Nairobi,Consumer,2022-09-25
+C0263,Customer 263,Female,36,Kitale,Rift Valley,Consumer,2021-09-27
+C0264,Customer 264,Female,26,Thika,Central,Corporate,2021-12-26
+C0265,Customer 265,Other,35,Nyeri,Central,Small Business,2023-12-24
+C0266,Customer 266,Male,65,Eldoret,Rift Valley,Small Business,2023-09-14
+C0267,Customer 267,Female,27,Mombasa,Coast,Corporate,2023-08-18
+C0268,Customer 268,Other,61,Nakuru,Rift Valley,Small Business,2024-10-17
+C0269,Customer 269,Female,68,Kakamega,Western,Consumer,2023-01-20
+C0270,Customer 270,Female,47,,Rift Valley,Consumer,2024-01-04
+C0271,Customer 271,Male,55,Kitale,Rift Valley,Consumer,2024-10-08
+C0272,Customer 272,Female,61,Garissa,North Eastern,Consumer,2023-01-31
+C0273,Customer 273,Other,38,Nairobi,Nairobi,Small Business,2024-06-22
+C0274,Customer 274,Female,58,Nakuru,Rift Valley,Corporate,2024-08-19
+C0275,Customer 275,Other,44,Kitale,Rift Valley,Consumer,2022-09-11
+C0276,Customer 276,Male,49,Nairobi,Nairobi,Consumer,2021-03-18
+C0277,Customer 277,Female,42,Nakuru,Rift Valley,Consumer,2024-01-06
+C0278,Customer 278,Other,44,Garissa,North Eastern,Corporate,2024-11-27
+C0279,Customer 279,Male,59,Kitale,Rift Valley,Consumer,2021-11-13
+C0280,Customer 280,Male,35,Meru,Eastern,Consumer,2024-06-14
+C0281,Customer 281,Male,46,Nyeri,Central,Small Business,2022-03-21
+C0282,Customer 282,Other,41,Nyeri,Central,Consumer,2021-07-23
+C0283,Customer 283,Female,43,Garissa,North Eastern,Consumer,2023-01-05
+C0284,Customer 284,Female,60,Mombasa,Coast,Consumer,2023-07-21
+C0285,Customer 285,Female,21,Garissa,North Eastern,Corporate,2024-05-07
+C0286,Customer 286,Other,31,Nakuru,Rift Valley,Consumer,2021-09-15
+C0287,Customer 287,Other,31,Kakamega,Western,Corporate,2022-03-01
+C0288,Customer 288,Female,68,Nakuru,Rift Valley,Small Business,2022-11-04
+C0289,Customer 289,Female,26,Nairobi,Nairobi,Consumer,2022-07-22
+C0290,Customer 290,Other,73,Kisumu,Nyanza,Consumer,2021-08-14
+C0291,Customer 291,Female,55,Nairobi,Nairobi,Consumer,2023-01-04
+C0292,Customer 292,Female,26,Kisumu,Nyanza,Corporate,2022-06-28
+C0293,Customer 293,Other,22,Kakamega,Western,Consumer,2021-08-21
+C0294,Customer 294,Other,24,Nyeri,Central,Consumer,2023-11-18
+C0295,Customer 295,Female,64,Nakuru,Rift Valley,Corporate,2024-06-13
+C0296,Customer 296,Male,47,Garissa,North Eastern,Corporate,2023-12-04
+C0297,Customer 297,Male,72,Nairobi,Nairobi,Consumer,2021-05-05
+C0298,Customer 298,Male,63,Garissa,North Eastern,Small Business,2021-08-10
+C0299,Customer 299,Male,56,Mombasa,Coast,Consumer,2021-06-15
+C0300,Customer 300,Other,58,Kisumu,Nyanza,Corporate,2022-07-18
+C0301,Customer 301,Male,56,Kitale,Rift Valley,Consumer,2022-10-28
+C0302,Customer 302,Other,45,Meru,Eastern,Consumer,2023-11-02
+C0303,Customer 303,Other,59,Kitale,Rift Valley,Small Business,2021-08-23
+C0304,Customer 304,Female,45,Kakamega,Western,Consumer,2025-01-16
+C0305,Customer 305,Male,70,Nakuru,Rift Valley,Consumer,2023-04-28
+C0306,Customer 306,Female,38,Thika,Central,Consumer,2025-02-03
+C0307,Customer 307,Male,27,Garissa,North Eastern,Corporate,2022-06-07
+C0308,Customer 308,Female,71,Meru,Eastern,Consumer,2021-05-18
+C0309,Customer 309,Other,65,Thika,Central,Consumer,2021-07-17
+C0310,Customer 310,Female,55,Kisumu,Nyanza,Small Business,2024-02-14
+C0311,Customer 311,Other,25,Kakamega,Western,Consumer,2022-11-07
+C0312,Customer 312,Other,21,Garissa,North Eastern,Small Business,2023-05-17
+C0313,Customer 313,Male,24,Machakos,Eastern,Consumer,2022-10-02
+C0314,Customer 314,Other,48,Nakuru,Rift Valley,Consumer,2021-11-13
+C0315,Customer 315,Other,41,Mombasa,Coast,Consumer,2022-12-19
+C0316,Customer 316,Female,69,Eldoret,Rift Valley,Consumer,2024-03-21
+C0317,Customer 317,Other,61,Kakamega,Western,Corporate,2024-06-27
+C0318,Customer 318,Other,71,Nairobi,Nairobi,Corporate,2024-06-01
+C0319,Customer 319,Male,62,Nairobi,Nairobi,Corporate,2022-01-05
+C0320,Customer 320,Female,29,Nyeri,Central,Small Business,2022-12-20
+C0321,Customer 321,Male,22,Machakos,Eastern,Consumer,2024-09-08
+C0322,Customer 322,Female,65,Garissa,North Eastern,Consumer,2021-03-04
+C0323,Customer 323,Male,39,Thika,Central,Consumer,2023-05-10
+C0324,Customer 324,Male,67,Eldoret,Rift Valley,Small Business,2025-01-17
+C0325,Customer 325,Female,27,Machakos,Eastern,Consumer,2021-06-23
+C0326,Customer 326,Other,23,Machakos,Eastern,Consumer,2021-04-12
+C0327,Customer 327,Male,56,Garissa,North Eastern,Consumer,2023-05-19
+C0328,Customer 328,Other,25,Eldoret,Rift Valley,Consumer,2022-03-18
+C0329,Customer 329,Other,61,Mombasa,Coast,Corporate,2022-08-04
+C0330,Customer 330,Male,20,Kakamega,Western,Consumer,2024-09-28
+C0331,Customer 331,Female,31,Machakos,Eastern,Consumer,2021-04-23
+C0332,Customer 332,Male,36,Nakuru,Rift Valley,Consumer,2021-10-09
+C0333,Customer 333,Other,45,Nairobi,Nairobi,Consumer,2023-10-16
+C0334,Customer 334,Other,32,Thika,Central,Consumer,2023-12-27
+C0335,Customer 335,Female,43,Garissa,North Eastern,Small Business,2022-12-27
+C0336,Customer 336,Female,47,Nairobi,Nairobi,Small Business,2023-06-13
+C0337,Customer 337,Male,54,Nyeri,Central,Consumer,2024-03-25
+C0338,Customer 338,Male,25,Garissa,North Eastern,Consumer,2023-05-06
+C0339,Customer 339,Other,47,,Central,Small Business,2021-12-18
+C0340,Customer 340,Male,72,Nyeri,Central,Consumer,2021-06-30
+C0341,Customer 341,Male,51,Thika,Central,Consumer,2024-04-21
+C0342,Customer 342,Female,39,Eldoret,Rift Valley,Corporate,2022-11-27
+C0343,Customer 343,Other,25,Mombasa,Coast,Consumer,2023-11-12
+C0344,Customer 344,Male,64,Nakuru,Rift Valley,Small Business,2022-12-17
+C0345,Customer 345,Female,24,Garissa,North Eastern,Consumer,2021-10-30
+C0346,Customer 346,Other,27,Nakuru,Rift Valley,Corporate,2021-12-22
+C0347,Customer 347,Female,67,Garissa,North Eastern,Corporate,2021-06-04
+C0348,Customer 348,Other,46,Meru,Eastern,Corporate,2024-02-29
+C0349,Customer 349,Other,57,Machakos,Eastern,Consumer,2024-08-09
+C0350,Customer 350,Female,46,Garissa,North Eastern,Consumer,2022-10-10
